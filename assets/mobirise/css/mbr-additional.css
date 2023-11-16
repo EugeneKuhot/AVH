@@ -1252,10 +1252,15 @@ a {
 .cid-tVwJ4cTLL0 .mbr-text,
 .cid-tVwJ4cTLL0 .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tVwJ4cTLL0 .card-title,
 .cid-tVwJ4cTLL0 .card-box {
   text-align: left;
+}
+.cid-tVwJ4cTLL0 .card-title,
+.cid-tVwJ4cTLL0 .card-box P {
+  text-align: center;
 }
 .cid-tTNtpR3UtN {
   padding-top: 6rem;
